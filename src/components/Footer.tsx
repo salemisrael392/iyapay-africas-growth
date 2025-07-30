@@ -9,13 +9,13 @@ const Footer = () => {
           <div className="lg:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="flex h-12 w-12 items-center justify-center rounded-lg bg-gradient-primary text-primary-foreground font-bold text-xl">
-                I
+                A
               </div>
-              <span className="text-3xl font-bold text-white">IYAPAY</span>
+              <span className="text-3xl font-bold text-white">ASCEND</span>
             </div>
             <p className="text-gray-300 mb-6 max-w-md">
-              Empowering African market women and youths with innovative fintech and health services. 
-              Building financial independence and wellness across Africa.
+              A transformative summer camp experience organized by Ablaze International Gospel Center 
+              for children and teens aged 9-21. Building character, faith, and leadership.
             </p>
             <div className="flex space-x-4">
               <a href="#" className="text-gray-300 hover:text-white transition-colors">
@@ -38,28 +38,28 @@ const Footer = () => {
             <h3 className="text-xl font-semibold text-white mb-4">Quick Links</h3>
             <ul className="space-y-2">
               <li>
-                <a href="#services" className="text-gray-300 hover:text-white transition-colors">
-                  Services
+                <a href="#activities" className="text-gray-300 hover:text-white transition-colors">
+                  Activities
                 </a>
               </li>
               <li>
                 <a href="#about" className="text-gray-300 hover:text-white transition-colors">
-                  About Us
+                  About Camp
                 </a>
               </li>
               <li>
                 <a href="#" className="text-gray-300 hover:text-white transition-colors">
-                  How It Works
+                  Registration
                 </a>
               </li>
               <li>
                 <a href="#" className="text-gray-300 hover:text-white transition-colors">
-                  Success Stories
+                  What to Bring
                 </a>
               </li>
               <li>
                 <a href="#" className="text-gray-300 hover:text-white transition-colors">
-                  Support
+                  FAQ
                 </a>
               </li>
             </ul>
@@ -71,15 +71,15 @@ const Footer = () => {
             <div className="space-y-3">
               <div className="flex items-center space-x-3 text-gray-300">
                 <Phone className="h-5 w-5" />
-                <span>+234 800 IYAPAY</span>
+                <span>+234 800 ASCEND</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <Mail className="h-5 w-5" />
-                <span>hello@iyapay.com</span>
+                <span>camp@ablazeinternational.org</span>
               </div>
               <div className="flex items-center space-x-3 text-gray-300">
                 <MapPin className="h-5 w-5" />
-                <span>Lagos, Nigeria</span>
+                <span>Ablaze International Gospel Center</span>
               </div>
             </div>
           </div>
@@ -87,9 +87,9 @@ const Footer = () => {
         
         <div className="border-t border-gray-600 mt-12 pt-8 text-center">
           <p className="text-gray-300">
-            © 2024 IYAPAY. All rights reserved. | 
+            © 2024 ASCEND Summer Camp - Ablaze International Gospel Center. All rights reserved. | 
             <a href="#" className="hover:text-white ml-1">Privacy Policy</a> | 
-            <a href="#" className="hover:text-white ml-1">Terms of Service</a>
+            <a href="#" className="hover:text-white ml-1">Terms & Conditions</a>
           </p>
         </div>
       </div>

@@ -16,34 +16,34 @@ const CallToAction = () => {
         <Card className="max-w-4xl mx-auto bg-white/95 backdrop-blur-sm border-0 shadow-soft">
           <CardContent className="p-8 md:p-12 text-center">
             <h2 className="text-3xl md:text-5xl font-bold text-primary mb-6">
-              Ready to Transform Your Financial Future?
+              Don't Miss Out on ASCEND 2024!
             </h2>
             <p className="text-xl text-muted-foreground mb-8 max-w-2xl mx-auto">
-              Join thousands of African market women and youths who are already building 
-              better lives with IYAPAY's innovative fintech and health services.
+              Secure your spot at the most exciting summer camp experience. 
+              Limited spaces available for children and teens aged 9-21!
             </p>
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center mb-8">
               <Button variant="hero" size="lg" className="text-lg px-8 py-4">
-                Get Started Today
+                Register Now - ₦25,000
               </Button>
               <Button variant="outline-green" size="lg" className="text-lg px-8 py-4">
-                Schedule a Demo
+                Contact for Info
               </Button>
             </div>
             
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6 mt-12">
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary mb-2">Free</div>
-                <div className="text-muted-foreground">Account Setup</div>
+                <div className="text-2xl font-bold text-primary mb-2">July 31-Aug 3</div>
+                <div className="text-muted-foreground">4 Days of Fun</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary mb-2">24/7</div>
-                <div className="text-muted-foreground">Customer Support</div>
+                <div className="text-2xl font-bold text-primary mb-2">Ages 9-21</div>
+                <div className="text-muted-foreground">All Welcome</div>
               </div>
               <div className="text-center">
-                <div className="text-2xl font-bold text-primary mb-2">100%</div>
-                <div className="text-muted-foreground">Secure Transactions</div>
+                <div className="text-2xl font-bold text-primary mb-2">₦25,000</div>
+                <div className="text-muted-foreground">Registration Fee</div>
               </div>
             </div>
           </CardContent>
